@@ -1,0 +1,14 @@
+name: GrowthAPI
+description: An attempt to get as close to modding without client-side mods
+version: 0.0.1
+author: Ben Sergent V
+
+main: com.sergenttech.plugins.growth.GrowthAPI
+database: false
+
+permissions:
+      
+commands:
+    growth:
+        description: Version and debugging command
+        aliases: [g]
